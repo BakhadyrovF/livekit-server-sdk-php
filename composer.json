@@ -1,13 +1,12 @@
 {
-    "name": "agence104/livekit-server-sdk",
+    "name": "bakhadyrovf/livekit-server-sdk",
     "description": "Server-side SDK for LiveKit.",
     "type": "library",
     "license": "MIT",
-    "version": "1.2.3",
+    "version": "1.0.0",
     "authors": [
         {
-            "name": "Agence 10-4",
-            "homepage": "https://www.agence104.com"
+            "name": "Firuzbek Bakhadyrov"
         }
     ],
     "require": {
